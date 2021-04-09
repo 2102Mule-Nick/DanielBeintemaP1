@@ -2,6 +2,11 @@ package com.beintema.exception;
 
 public class UserNameTaken extends Exception{
 
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 5158848996947592839L;
+
 	public UserNameTaken() {
 		super();
 		// TODO Auto-generated constructor stub

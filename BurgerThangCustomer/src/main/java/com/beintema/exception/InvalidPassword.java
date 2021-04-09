@@ -2,6 +2,11 @@ package com.beintema.exception;
 
 public class InvalidPassword extends RuntimeException {
 
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+
 	public InvalidPassword() {
 		super();
 		// TODO Auto-generated constructor stub

@@ -1,7 +1,6 @@
 package com.beintema.dao;
 
 import java.sql.PreparedStatement;
-import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.List;
 

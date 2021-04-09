@@ -2,6 +2,11 @@ package com.beintema.exception;
 
 public class UserNotFound extends Exception {
 
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+
 	public UserNotFound() {
 		super();
 		// TODO Auto-generated constructor stub

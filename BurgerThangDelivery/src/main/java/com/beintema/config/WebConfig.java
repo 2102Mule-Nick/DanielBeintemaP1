@@ -15,6 +15,7 @@ import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 import com.beintema.config.AppConfig;
 import com.beintema.config.WebConfig;
 
+@SuppressWarnings("unused")
 @Configuration
 @EnableWebMvc
 @ComponentScan("com.beintema.controller")
