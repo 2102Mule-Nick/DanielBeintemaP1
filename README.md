@@ -1,13 +1,19 @@
 # DanielBeintemaP1
 
 BurgerThang
+
 Project Description
+
 A food ordering app designed around usage of SOAP, REST and JMS technologies to order burgers. Designed primarily as a project for the training portion of MuleSoft.
 
-Technologies Used
+Technologies Used (NOTE: When run with pom file, all technologies should load.
+
 Tomcat - version 1.0
+
 Maven - version 3.63
+
 Spring - version
+
 Features
 List of features ready and TODOs for future development
 
